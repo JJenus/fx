@@ -173,8 +173,8 @@
             
           </div>
           <div class="card-footer py-2 px-2 align-items-center  bg-gradient-dark shadow-lg border-top border-primary h-25" style="border-radius: 0;" >
-            
-            <form class="price" action="" method="get" accept-charset="utf-8">
+            <div class="row justify-content-center">
+            <form class="col-md-6 col-lg-4" action="" method="get" accept-charset="utf-8">
                <div class="row text-white ">
                 <div class="col-6">
                   <div class="form-group text-white ">
@@ -218,7 +218,7 @@
                 </div>
               </div>
             </form>
-            
+            </div>
           </div>
         </div>
   </section>
